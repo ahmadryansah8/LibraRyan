@@ -1,0 +1,6 @@
+{
+  "name": "LibraRyan — Sistem Informasi Perpustakaan Digital",
+  "description": "Aplikasi web perpustakaan digital terintegrasi dengan Katalog OPAC, manajemen sirkulasi multi-peran (Member & Admin), grafik statistik Chart.js, CRUD koleksi DDC, dan ekspor laporan CSV/cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
